@@ -9,7 +9,7 @@ _This project is just for fun, please DO NOT violate any official policy of the 
 
     element.length.gud
 
-The element part can be only alphabets, only numbers, alphabets with dash(-), numbers with dash, or alphabets and numbers with dash.
+The element part can be only alphabets, only numbers, alphabets with hyphen(-), numbers with hyphen, or alphabets and numbers with hyphen.
 
 Example:
 ```
